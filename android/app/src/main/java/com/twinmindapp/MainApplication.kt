@@ -1,4 +1,4 @@
-package com.twinmindapp
+package com.twinmind.app1
 
 import android.app.Application
 import com.facebook.react.PackageList
