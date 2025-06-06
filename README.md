@@ -47,6 +47,7 @@ Environment Setup
 Create a .env file at the root of the project and define the following variables:
 
 OPENAI_API_KEY=your_openai_api_key
+
 WEB_CLIENT_ID=your_firebase_web_client_id
 
 These are required for API communication and Google authentication.
