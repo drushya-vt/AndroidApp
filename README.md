@@ -62,7 +62,7 @@ Planned Enhancements (Pending Due to Time Constraints):
 
 •	Persistent backend storage of transcripts, notes, and chat queries.
  
-•       To display transcripts in real-time under the Transcript tab.
+•       To improve transcripts functionality and display transcripts in real-time under the Transcript tab.
      
 •	Enhanced state management using a centralized store (e.g., Redux).
  
